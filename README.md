@@ -1,6 +1,6 @@
 # PAYable Mobile IPG API
 
-#### 1. Generate payment url 
+#### 1. Generate Payment URL 
 
 GET: `https://us-central1-payable-mobile.cloudfunctions.net/ipg/sandbox/`
 
