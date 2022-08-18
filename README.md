@@ -1,4 +1,4 @@
-# PAYable Mobile IPG API
+# PAYable IPG Mobile APIs
 
 #### 1. Generate Payment URL 
 
