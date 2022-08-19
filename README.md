@@ -131,7 +131,7 @@ HTML <br/>
 |6|returnUrl|String|Min: 11<br>Max: 300|Merchant’s Return URL <br>**Format - Valid HTTPS Web URL**|M|
 |7|buttonType|int|1-10|1 - JavaScript pay button<br>2 - post method pay button<br>**Format: [1 or 2]**|O|
 |8|statusViewDuration|long|0-500|The time period which status view screen should be on the screen. This time should be given in **seconds**.|O|
-|9|Amount |long||Final amount of the order |M |
+|9|amount |long||Final amount of the order |M |
 |10|currencyCode|String|Min:3<br>Max :3|Currency Code: LKR|M|
 |11|orderDescription|String|Min:1<br>Max :125|Small Description for the Order<br>**Format: a-zA-Z0-9 and dash, dot, comma, forward slash, parenthesis, underscore, & spaces**|M|
 |12|customerFirstName |String |Min=1 Max=50 |Customer’s First Name <br>**Format: a-zA-Z0-9, space, dot**|M |
