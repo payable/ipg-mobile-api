@@ -117,9 +117,9 @@ HTML <br/>
 
 ![](https://i.imgur.com/9GlYUdL.png)
 
+<hr/>
 
 ## Parameters Validation Guide
-
 
 |**##**|**Field Name**|**Type**|**Size**|**Description**|**\*\*\***|
 | :- | :- | :- | :- | :- | :- |
@@ -153,8 +153,3 @@ HTML <br/>
 |28|shippingAddressPostcodeZip|String|Max=10|Shipping Details - Shipping Address - Postal Code <br>**Format: a-zA-Z0-9 and dash**|O|
 |29|shippingAddressStateProvince|String|Max=20|Shipping Details - Shipping Address - Province <br>**Format: a-zA-Z0-9 and spaces**|O|
 |30|responseType|String||One of these Strings: [**json** OR **html]**|M|
-
-
-
-
-
